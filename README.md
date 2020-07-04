@@ -52,7 +52,7 @@ Here we get the angle and check if its less than 90 degrees. If it is then we in
 
 The rest is seting up the keyboard so that when the user presses "b" on their keyboard it captures their background. 
 
-#Running the code
+## Running the code
 
 
 ![Five Fingers](FiveFingers.png)
