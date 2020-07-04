@@ -1,4 +1,4 @@
-# Hand Gesture Recognition 
+# Count number of fingers
 
 I used opencv to detect the number of fingers a user is holding up. 
 
@@ -59,6 +59,10 @@ The rest is seting up the keyboard so that when the user presses "b" on their ke
 
 ![Four Fingers](FourFingers.png)
 
+
+# References
+
+https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python
 
 
 
