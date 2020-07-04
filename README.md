@@ -64,7 +64,7 @@ The rest is seting up the keyboard so that when the user presses "b" on their ke
 
 https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python
 
-
+https://docs.opencv.org/master/index.html
 
 
 
