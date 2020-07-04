@@ -55,9 +55,9 @@ The rest is seting up the keyboard so that when the user presses "b" on their ke
 ##Running the code
 
 
-![Five Fingers](FiveFingers.jpg)
+![Five Fingers](FiveFingers.png)
 
-![Four Fingers](FourFingers.jpg)
+![Four Fingers](FourFingers.png)
 
 
 
